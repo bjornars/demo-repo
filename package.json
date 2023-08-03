@@ -1,0 +1,11 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test: success\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
